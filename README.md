@@ -3,4 +3,5 @@
 
 ●	Developed custom spiders in Python with Scrapy to navigate through the website, handle pagination, and efficiently extracted targeted information along with storing it in a structured format (as a CSV file).
 
-URL used: https://www.magicbricks.com/independent-house-for-sale-in-new-delhi-pppfs
+URL used: https://www.magicbricks.com/independent-house-for-sale-in-new-delhi-pppfs ,
+          https://www.magicbricks.com/independent-house-for-sale-in-ahmedabad-pppfs
